@@ -19,3 +19,5 @@ let salaries = {
   Ann: 160,
   Pete: 130,
 }
+
+//Modify salary key-value pairs
