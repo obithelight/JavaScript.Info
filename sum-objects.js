@@ -25,3 +25,6 @@ salaries.Obi = 610
 salaries.Ann = 100
 delete salaries.Pete
 //salaries = {}
+
+//Write the code to sum all salaries and store in the variable sum.
+
