@@ -32,5 +32,4 @@ for(let key in salaries){
   sum += salaries[key]
 }
 console.log(sum)
-
-
+//If salaries is empty, then the result must be 0.
