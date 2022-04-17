@@ -21,3 +21,7 @@ let salaries = {
 }
 
 //Modify salary key-value pairs
+salaries.Obi = 610
+salaries.Ann = 100
+delete salaries.Pete
+//salaries = {}
