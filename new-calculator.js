@@ -21,3 +21,6 @@ class Calculator{
       return this.numA * this.numB
     }
   }
+
+ let calculator = new Calculator();
+ calculator.read();
