@@ -8,3 +8,16 @@ sum() returns the sum of these properties.
 mul() returns the multiplication product of these properties.
 For instance:
 */
+
+class Calculator{
+    read(){
+      this.numA = +prompt("Enter first number")
+      this.numB = +prompt("Enter second number")
+    }
+    sum(){
+      return this.numA + this.numB 
+    }
+    mul(){
+      return this.numA * this.numB
+    }
+  }
