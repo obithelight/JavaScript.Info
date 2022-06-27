@@ -8,5 +8,4 @@ Store the “current value” in the property value. The starting value is set t
 The read() method should use prompt to read a new number and add it to value.
 In other words, the value property is the sum of all user-entered values with the initial value startingValue.
 
-Here’s the demo of the code:
 */
