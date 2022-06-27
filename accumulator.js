@@ -1,5 +1,5 @@
 /*Create new Accumulator
-importance: 5
+
 Create a constructor function Accumulator(startingValue).
 
 Object that it creates should:
