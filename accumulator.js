@@ -14,3 +14,7 @@ class Accumulator {
   constructor(startingValue) {
     this.value = startingValue;
   }
+  read() {
+    this.value += +prompt("Enter a value");
+  }
+}
