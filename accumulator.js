@@ -18,3 +18,5 @@ class Accumulator {
     this.value += +prompt("Enter a value");
   }
 }
+let accumulator = new Accumulator(10); // initial value 1
+
