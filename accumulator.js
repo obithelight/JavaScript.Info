@@ -23,3 +23,5 @@ let accumulator = new Accumulator(10); // initial value 1
 accumulator.read(); // adds the user-entered value
 accumulator.read(); // adds the user-entered value
 accumulator.read(); // adds the user-entered value
+accumulator.read(); // adds the user-entered value
+
