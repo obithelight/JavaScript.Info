@@ -25,3 +25,4 @@ accumulator.read(); // adds the user-entered value
 accumulator.read(); // adds the user-entered value
 accumulator.read(); // adds the user-entered value
 
+console.log(accumulator.value); // shows the sum of these values
