@@ -17,5 +17,5 @@ let ladder = {
   }
 };
 
-Now, if we need to make several calls in sequence, can do it like this:
+//Now, if we need to make several calls in sequence, can do it like this:
 
