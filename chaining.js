@@ -19,3 +19,11 @@ let ladder = {
 
 //Now, if we need to make several calls in sequence, can do it like this:
 
+ladder.up();
+ladder.up();
+ladder.down();
+ladder.showStep(); // 1
+ladder.down();
+ladder.showStep(); // 0
+Modify the code of up, down and showStep to make the calls chainable, like this:
+
