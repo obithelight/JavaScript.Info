@@ -30,3 +30,5 @@ let ladder = {
 // ladder.down();
 // ladder.showStep(); // 0
 
+//Modify the code of up, down and showStep to make the calls chainable, like this:
+
