@@ -32,3 +32,4 @@ let ladder = {
 
 //Modify the code of up, down and showStep to make the calls chainable, like this:
 
+ladder.up().up().down().showStep().down().showStep(); // shows 1 then 0
