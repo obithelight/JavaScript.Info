@@ -13,3 +13,6 @@ function A() {
 function B() {
   return obj;
 }
+
+let a = new A();
+let b = new B();
