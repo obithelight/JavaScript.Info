@@ -23,3 +23,7 @@ console.log(a == b); // true
 let obj1 = {};
 let obj2 = {};
 
+function X() {
+  return obj1;
+}
+
