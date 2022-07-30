@@ -27,3 +27,7 @@ function X() {
   return obj1;
 }
 
+function Y() {
+  return obj2;
+}
+
