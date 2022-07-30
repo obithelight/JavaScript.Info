@@ -34,3 +34,4 @@ function Y() {
 let x = new X();
 let y = new Y();
 
+console.log(x == y); // false
