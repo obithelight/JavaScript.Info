@@ -31,3 +31,6 @@ function Y() {
   return obj2;
 }
 
+let x = new X();
+let y = new Y();
+
