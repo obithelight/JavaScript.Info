@@ -19,7 +19,7 @@ let b = new B();
 
 console.log(a == b); // true
 
-
+//Two different objects, even when empty are NOT equal. 
 let obj1 = {};
 let obj2 = {};
 
