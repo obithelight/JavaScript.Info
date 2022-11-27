@@ -23,3 +23,7 @@ let calculator = {
   }
 };
 
+calculator.read();
+console.log(calculator.sum());
+console.log(calculator.mul());
+console.log(calculator);
